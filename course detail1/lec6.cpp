@@ -47,4 +47,8 @@ int main()
 			cout<<"It is Default.\n";
 	}
 	return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 190e412f2db57ac66e2d7f817904e3c7bceaa630
